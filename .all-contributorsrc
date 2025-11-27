@@ -15,7 +15,8 @@
       "contributions": [
         "code",
         "doc",
-        "review"
+        "review",
+        "test"
       ]
     },
     {
@@ -33,7 +34,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/872224?v=4",
       "profile": "https://okeefe.dev",
       "contributions": [
-        "code"
+        "review"
       ]
     },
     {
@@ -50,6 +51,89 @@
       "name": "Ruth Cheesley",
       "avatar_url": "https://avatars.githubusercontent.com/u/2930593?v=4",
       "profile": "https://www.ruthcheesley.co.uk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "escopecz",
+      "name": "John Linhart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1235442?v=4",
+      "profile": "http://johnlinhart.com",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "ChiragMoradiya",
+      "name": "Chirag Moradiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2399621?v=4",
+      "profile": "https://github.com/ChiragMoradiya",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "matbcvo",
+      "name": "Martin Vooremäe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1006437?v=4",
+      "profile": "https://github.com/matbcvo",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "henmohr",
+      "name": "henmohr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21038820?v=4",
+      "profile": "https://github.com/henmohr",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "maxitromer",
+      "name": "maxitromer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6311835?v=4",
+      "profile": "https://github.com/maxitromer",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "nick-vanpraet",
+      "name": "Nick Vanpraet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7923739?v=4",
+      "profile": "https://github.com/nick-vanpraet",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "back-2-95",
+      "name": "Marko Korhonen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1140272?v=4",
+      "profile": "https://druid.fi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kiart-tantasi",
+      "name": "Kiart Tantasi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76615399?v=4",
+      "profile": "https://www.petchblog.net/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Aarplexan",
+      "name": "Aarplexan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72907341?v=4",
+      "profile": "https://github.com/Aarplexan",
       "contributions": [
         "code"
       ]
